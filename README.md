@@ -76,6 +76,6 @@ Text Editor [like Sublime] - (Optional)
 	It appears from the name that setImmediate() will always be executed before setTimeout() but this is a misconception. This has been illustrated in the example1.js file. 
 	Moreover, I personallly feel that both process.nextTick() and setImmediate() are named wrongly. If we swap the names of these two, then the names will match their respective functionalities.
 
-#Authors
+#Author
 Sukhsagar Singh
 2015CSB1051
