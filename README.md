@@ -1,4 +1,5 @@
 # sb-dev-js-events
+[DONE]
 
 #Research on behaviour of nextTick, setTimeout and setImmediate.
 This project aims at providing a quick overview on how the functions like nextTick(), setTimeout() and setImmediate() manipulate the event loop in node js. The order of their execution will be specified with the help of a program. Refer to the file event_loop.js for the same. 
